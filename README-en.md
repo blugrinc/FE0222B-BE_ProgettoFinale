@@ -299,7 +299,6 @@ This behavior can be changed in the application.properties.
   - Http Status: 200
 
 ## Additional Resources
-- The Postman export file is provided, already containing the correct configuration of the methods so that they can be tested
 - Swagger Documentation URL: {domain-name}/swagger-ui.html
   - Please note, to use the swagger methods you must authenticate with the token, which can be obtained through the login method with the following prompt:
 

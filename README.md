@@ -297,7 +297,6 @@ per astrarre la logica di business scritta in Java dalle operazioni da svolgere 
   - Http Status: 200
   
 ## Risorse Aggiuntive
-- E' fornito il file di esportazione di Postman contentente già la configurazione corretta dei metodi per poterli testare
 - URL Documentazione Swagger: {domain-name}/swagger-ui.html
   - Attenzione, per utilizzare i metodi swagger è necessario autenticarsi con il token, ottenibile attraverso il metodo di login con la seguente richiesta: 
   ```
